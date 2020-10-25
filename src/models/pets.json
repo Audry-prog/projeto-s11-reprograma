@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"nomeFantasia": "Pet Shop Bichanos",
+		"endereco": "Avenida Cruz e Rebouças, 3357 - Rio de Janeiro",
+		"telefone": "21 3345-6789",
+        "atende": ["cães", "gatos", "coelhos"],
+        "precoConsulta": "R$ 70,00"
+	},
+	{
+		"id": 2,
+		"nomeFantasia": "Pet Shop Bicho Mania",
+		"endereco": "Avenida Paulista, 1273 - São Paulo",
+		"telefone": "11 12345-6789",
+        "atende": ["cães", "gatos"],
+        "precoConsulta": "R$ 100,00"
+	},
+	{
+        "id": 3,
+        "nomeFantasia": "Pet Shop Au Au",
+		"endereco": "Avenida Desembargador Pedro Lutz, 800 - São Paulo",
+		"telefone": "11 12345-3322",
+        "atende": "cães",
+        "precoConsulta": "R$ 85,00"
+	}
+]
